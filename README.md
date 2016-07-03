@@ -1,4 +1,4 @@
-Code for [Keras plays catch]() blog post
+Code for [Keras plays catch](http://edersantana.github.io/articles/keras_rl/) blog post
 
 ### Train
 ```bash
